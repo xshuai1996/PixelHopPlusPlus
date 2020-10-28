@@ -13,6 +13,7 @@ Parameter setting of module 1
 Parameter setting of module 2
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/params2.png)
 Parameter setting of module 3
+
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/params3.png)
 Number of parameters in module 1
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/num_params1.png)
@@ -24,4 +25,5 @@ Accuracy
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/acc1.png)
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/acc2.png)
 Confusion matrix acrossing different classes
+
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/acc3.png)
