@@ -32,3 +32,6 @@ Accuracy
 
 Confusion matrix acrossing different classes
 ![image](https://raw.githubusercontent.com/xshuai1996/PixelHopPlusPlus/master/results/acc3.png)
+
+## To improve
+Check out *improve.pdf*.
